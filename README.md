@@ -1,0 +1,2 @@
+# SemCD
+Documentación del Seminario.
